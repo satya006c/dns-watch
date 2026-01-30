@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dns-watch/static/css/main.8519278e.css",
+    "main.js": "/dns-watch/static/js/main.dbdd73cd.js",
+    "static/js/453.dab362cc.chunk.js": "/dns-watch/static/js/453.dab362cc.chunk.js",
+    "index.html": "/dns-watch/index.html",
+    "main.8519278e.css.map": "/dns-watch/static/css/main.8519278e.css.map",
+    "main.dbdd73cd.js.map": "/dns-watch/static/js/main.dbdd73cd.js.map",
+    "453.dab362cc.chunk.js.map": "/dns-watch/static/js/453.dab362cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8519278e.css",
+    "static/js/main.dbdd73cd.js"
+  ]
+}
