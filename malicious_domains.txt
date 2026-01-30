@@ -1,0 +1,2 @@
+malware.test
+badc2.example
